@@ -185,3 +185,14 @@ terraform {
 }
 ```
 
+## WHAT'S NEXT?
+
+**In our next lab, we will:**
+> - Configure Terraform to store the state file in a remote S3 bucket.
+> - Enable state locking using DynamoDB.
+> - Perform Terraform operations using this secure remote backend.
+
+---
+> Prepared By: Pravash
+
+> Last Updated: May 2025
